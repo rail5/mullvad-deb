@@ -1,1 +1,4 @@
 *.deb filter=lfs diff=lfs merge=lfs -text
+pool/main/m/mullvad-vpn/*.deb filter=lfs diff=lfs merge=lfs -text
+pool/main/m/mullvad-vpn/* filter=lfs diff=lfs merge=lfs -text
+pool/main/m/mullvad-vpn/mullvad-vpn_2023.5_amd64.deb filter=lfs diff=lfs merge=lfs -text
