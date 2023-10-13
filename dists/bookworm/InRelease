@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Mullvad
+Label: Mullvad
+Suite: stable
+Codename: bookworm
+Date: Fri, 13 Oct 2023 14:30:52 UTC
+Architectures: amd64
+Components: main
+Description: Mullvad VPN
+MD5Sum:
+ 5e29c5f00d1348d6c7a40bc964ba017c 586 main/binary-amd64/Packages
+ 4a2801e5dfd8adebbc3dcd49c39780f1 403 main/binary-amd64/Packages.gz
+ 275a09ad62b9dc1073b4ae0a429f954e 108 main/binary-amd64/Release
+SHA1:
+ 0b4e521324833ddfc1298ceaedc07103762d5e72 586 main/binary-amd64/Packages
+ a50ac4e4f242d4785996543525ee119f3e272475 403 main/binary-amd64/Packages.gz
+ 5241f0f3951a5e698566a1e6c41608ba945c93f8 108 main/binary-amd64/Release
+SHA256:
+ b90c8921bc06b6d571c5540c1ed67d56b216fcb90dfb23c6cc842dbe6ab91f27 586 main/binary-amd64/Packages
+ 8929fb7ba6de5bf55da7c0bfba235dff77f6566171d932b08754599de8574c13 403 main/binary-amd64/Packages.gz
+ 1331656a7634861ecb540e1f9e1c02edf6c6f0b12b2c93b0ce57d461c459cba8 108 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE7RVui8b5FjZnaneqoMtXCrZikVkFAmUpVKgACgkQoMtXCrZi
+kVkAXgv9FIu5h9L0iDayvL6UexTJhdkOc3CqBr/4JvXYZXZu70koRE/td0bvH5bW
+23d0bOsVpi+IAa5N8Pen3s2ITiNSJl3ttRulojQHFTxtHMTZk3CdZrdyaIZEs0H+
+TQpD+5q3o6p2lmDkFw0VZII17r4YwpJnO3BCDkK4oSy49v2LJWCRmUKwYP3gOBky
+564FbhxcOakLM/dEjlLP3T13dmRP+j//SdnGIQz0GWW12ytzoLkzqjoWCxmXQMiN
+A2rVYYxRew3BOKrUEcF/Vt8n4I5L3vmLT0zCP10VgxjKCm+GLneBskOgG9LrCiKB
+AWLW6f/PafsahC2bFqPOucodOM0PLhv1w5jGaLxbnuH+fW6tknSNvJBAG8OlP1OD
+ra5mv1cwl1X//u6lDUCExQIROigzCMUEYuYUuQirxYFIoY/dSuHEch8MoqpRil6R
+YbDd1hi/9H//TPNeRyYBlf3t3l2/toBuTf7ZIhl7yPd9E+fM39tW0u5IOuUBOlif
+WgpKmV+j
+=N/6S
+-----END PGP SIGNATURE-----

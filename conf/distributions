@@ -1,0 +1,8 @@
+Origin: Mullvad
+Label: Mullvad
+Codename: bookworm
+Suite: stable
+Architectures: amd64
+Components: main
+Description: Mullvad VPN
+SignWith: ED156E8BC6F91636676A77AAA0CB570AB6629159

@@ -1,0 +1,20 @@
+Origin: Mullvad
+Label: Mullvad
+Suite: stable
+Codename: bookworm
+Date: Fri, 13 Oct 2023 14:30:52 UTC
+Architectures: amd64
+Components: main
+Description: Mullvad VPN
+MD5Sum:
+ 5e29c5f00d1348d6c7a40bc964ba017c 586 main/binary-amd64/Packages
+ 4a2801e5dfd8adebbc3dcd49c39780f1 403 main/binary-amd64/Packages.gz
+ 275a09ad62b9dc1073b4ae0a429f954e 108 main/binary-amd64/Release
+SHA1:
+ 0b4e521324833ddfc1298ceaedc07103762d5e72 586 main/binary-amd64/Packages
+ a50ac4e4f242d4785996543525ee119f3e272475 403 main/binary-amd64/Packages.gz
+ 5241f0f3951a5e698566a1e6c41608ba945c93f8 108 main/binary-amd64/Release
+SHA256:
+ b90c8921bc06b6d571c5540c1ed67d56b216fcb90dfb23c6cc842dbe6ab91f27 586 main/binary-amd64/Packages
+ 8929fb7ba6de5bf55da7c0bfba235dff77f6566171d932b08754599de8574c13 403 main/binary-amd64/Packages.gz
+ 1331656a7634861ecb540e1f9e1c02edf6c6f0b12b2c93b0ce57d461c459cba8 108 main/binary-amd64/Release

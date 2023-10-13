@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Mullvad
+Label: Mullvad
+Architecture: amd64
+Description: Mullvad VPN
